@@ -18,4 +18,5 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     lineage_rolex-user \
-    lineage_rolex-userdebug
+    lineage_rolex-userdebug \
+    lineage_rolex-eng
